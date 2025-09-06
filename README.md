@@ -4,3 +4,6 @@ code coming soon
 
 
 [<img src="TLV320DAC3100_ESP32.png" width="70%" height="70%">](TLV320DAC3100_ESP32.png)
+
+
+https://github.com/adafruit/Adafruit-TLV320DAC3100-I2S-DAC-PCB
