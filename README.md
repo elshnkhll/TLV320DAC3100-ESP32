@@ -1,10 +1,10 @@
-Roku Private Listening with TLV320DAC3100 on ESP32
-code coming soon
+#Roku Private Listening with TLV320DAC3100 on ESP32 code coming soon
 
 
 
 [<img src="TLV320DAC3100_ESP32.png" width="70%" height="70%">](TLV320DAC3100_ESP32.png)
 
+PCB is open source://oshwlab.com/ekhalilov/rokurc
 
 This project is about creating a Roku Private Listening device using Adafruit  TLV320DAC3100 dev board connected to TTGO T7 Mini32 V1.5 ESP32-WROVER-B dev board. Added three buttons for volume control.
 
